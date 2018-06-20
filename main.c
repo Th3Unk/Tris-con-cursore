@@ -214,15 +214,7 @@ int main(){
         comandi();
         logica();
         vittoria();
-
-        /*cout << endl;
-        for(int i=0; i<7; i++){
-            for(int j=0; j<7; j++){
-                cout << campo[i][j];
-                if(j==6)
-                cout << endl;
-            }
-        }*/
+        
     }
     return 0;
 }
